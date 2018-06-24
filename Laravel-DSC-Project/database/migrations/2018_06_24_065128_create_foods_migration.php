@@ -6,6 +6,7 @@ use Illuminate\Database\Migrations\Migration;
 
 class CreateFoodsMigration extends Migration
 {
+    // ada di bagian database migrations
     /**
      * Run the migrations.
      *

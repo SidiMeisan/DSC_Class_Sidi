@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 
 class fasilitatorController extends Controller
 {
+    // ada di basic controllers
     /**
      * Display a listing of the resource.
      *
