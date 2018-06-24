@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+//Route::get('peserta','pesertaController');
+//Route::get('peserta/{id}','pesertaController@isiData');	
+
+Route::resource('fasiltator','fasiltatorController');
